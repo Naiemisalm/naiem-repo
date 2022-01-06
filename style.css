@@ -1,0 +1,99 @@
+body{
+    background-color: rgba(242, 247, 247, 0.918);
+
+}
+.flex{
+    display: flex;
+    padding-bottom: 100px;
+}
+.style{
+    width: 50%;
+}
+.style img{
+    width: 40%;
+    padding-left: 200px;
+}
+ .broder{
+    border-left: 5px solid rgba(25, 0, 255, 0.836);
+ padding: 10px;
+ font-size: 20px;
+}
+.span{
+    color: rgb(228, 8, 26);
+}
+.paragraph{
+    font-size: 30px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+display: inline;
+background-color: tomato;
+padding: 10px 20px ;
+}
+.center{
+    text-align: center;
+}
+.color{
+    color: rgb(255, 47, 144);
+}
+.btn{
+    padding: 3px 3px;
+    box-shadow: 10px gold;
+    border-radius: 10px;
+}
+.btn img{
+width: 20%;
+}
+
+.mission{
+    width: 20%;
+    padding-left: 30px;
+    background-color: rgb(237, 100, 164);
+    margin-left: 5%;
+    box-shadow: 10px gray;
+}   
+
+.vission{
+   width: 30%;
+   padding-left: 30px;
+   background-color: rgb(122, 130, 202);
+   margin-left: 5%;
+   box-shadow: 10px gray;
+}
+.goals{
+    width: 30%;
+    padding-left: 30px;
+    background-color: rgba(243, 35, 156, 0.603);
+    margin-left: 5%;
+    box-shadow: 10px gray;  
+}
+
+
+
+.Demand{
+    font-size: 20px;
+    display: flex;
+    padding-right: 40%;
+    padding-bottom: 100px;
+}
+.Demand img{
+    width: 80%;
+}
+.style1{
+    width: 800px;
+    padding-left: 700px;
+    padding-bottom: 100px;
+    
+
+}
+.font-style{
+    font-size: 30px;
+ 
+}
+.hero{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
